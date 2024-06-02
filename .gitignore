@@ -1,0 +1,15 @@
+.DS_Store
+
+# dotnet
+bin
+obj
+appsettings.json
+
+.azure
+
+.env
+*_db
+
+__pycache__
+
+.cache
